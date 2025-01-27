@@ -1,4 +1,4 @@
 [wrap-git]
 directory=cairo_jpg
-url=https://github.com/Freed-Wu/cairo_jpg
-revision=meson
+url=https://github.com/rahra/cairo_jpg
+revision=master
